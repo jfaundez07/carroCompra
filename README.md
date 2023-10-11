@@ -1,5 +1,5 @@
 ## Joaquin Faundez
-Tarea receso "Análisis de código & Dependencia"
+Tarea receso " Análisis de código & Dependencia "
 
 # i. Identifique las clases y lo que éstas representan. Luego, establezca una descripción textual breve del contexto problema.
 Tiene dos clases, Calculadora y carroCompra, que simulan como lo dicen sus nombres, una calculadora que suma y multiplica, y un carro de compra de algo que podría ser un supermercado que almacena la cantidad y precio de los productos que se lleva, respectivamente.
@@ -11,6 +11,7 @@ Clase CarroCompra: simula un carro de supermercado con productos representado po
 # iii. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
 ![Captura desde 2023-10-11 15-07-14.png](..%2F..%2F..%2F..%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20desde%202023-10-11%2015-07-14.png)
 # Imagen estructura del proyecto IDE local: 
-![img.png](img.png)
+![Captura desde 2023-10-11 15-15-37.png](..%2F..%2F..%2F..%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20desde%202023-10-11%2015-15-37.png)
 # Imagen compilacion exitosa: 
-![img_1.png](img_1.png)
+![Captura desde 2023-10-11 15-16-03.png](..%2F..%2F..%2F..%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20desde%202023-10-11%2015-16-03.png)
+
